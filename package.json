@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ChristianScholtysik/VanillaNodeJS/issues"
   },
-  "homepage": "https://github.com/ChristianScholtysik/VanillaNodeJS#readme"
+  "homepage": "https://github.com/ChristianScholtysik/VanillaNodeJS#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
 }
