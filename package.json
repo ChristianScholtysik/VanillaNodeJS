@@ -1,0 +1,20 @@
+{
+  "name": "exercises_vanilla",
+  "version": "1.0.0",
+  "description": "a project to get familiar with nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristianScholtysik/VanillaNodeJS.git"
+  },
+  "keywords": [],
+  "author": "Christian SCholtysik\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[c",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChristianScholtysik/VanillaNodeJS/issues"
+  },
+  "homepage": "https://github.com/ChristianScholtysik/VanillaNodeJS#readme"
+}
